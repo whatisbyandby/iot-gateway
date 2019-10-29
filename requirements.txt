@@ -1,0 +1,4 @@
+Quart==0.10.0
+kafka-python==1.4.7
+influxdb==5.2.3
+python-dotenv==0.10.3
